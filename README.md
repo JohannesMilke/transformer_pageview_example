@@ -5,6 +5,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/JohannesMilke/transformer_pageview_example.svg?style=social&label=Star)](https://github.com/JohannesMilke/transformer_pageview_example) 
 [![GitHub forks](https://img.shields.io/github/forks/JohannesMilke/transformer_pageview_example.svg?style=social&label=Fork)](https://github.com/JohannesMilke/transformer_pageview_example/fork)
 [![GitHub JohannesMilke](https://img.shields.io/github/followers/JohannesMilke?label=follow&style=social)](https://github.com/JohannesMilke)
+
 We will build some more complex animations easily with the plugin Transformer Page View. 
 
 ### ⚡&ensp;Social Media
